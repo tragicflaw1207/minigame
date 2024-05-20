@@ -1,0 +1,4 @@
+name: MiniGame
+version: '1.0.0'
+main: me.ruende.minigame.MiniGame
+api-version: '1.20'
